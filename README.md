@@ -14,4 +14,4 @@ C:\Users\%USER%\Documents\Rainmeter\Skins\Naira Calendar\Naira.ini
 Skin preview
 ------------
 ![http://img.akamaru.de/di/1SDL/2015-09-15_17-30-49.png](http://img.akamaru.de/di/1SDL/2015-09-15_17-30-49.png)
-![http://img.akamaru.de/di/6T81/2015-09-15_17-31-41.png](http://img.akamaru.de/di/6T81/2015-09-15_17-31-41.png)
+![http://img.akamaru.de/di/PYXL/2015-09-18_21-57-58.png](http://img.akamaru.de/di/PYXL/2015-09-18_21-57-58.png)
